@@ -1,5 +1,5 @@
 # Full Stack Web Development Bootcamp
-## Abril2017 - SkylabCoders Academy
+## Julio2017 - SkylabCoders Academy
 
 by [JuanMa Garrido](#trainer)
 
@@ -8,7 +8,7 @@ by [JuanMa Garrido](#trainer)
 !SLIDE #MainCover no-bullet-list
  
 ## Full Stack Web Development Bootcamp
-### Abril2017
+### Julio2017
 
 - GIT & GITHUB
 - Javascript
