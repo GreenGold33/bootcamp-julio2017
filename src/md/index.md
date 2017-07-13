@@ -1000,6 +1000,7 @@ Choose a partner and do the following exercise online (in pairs) to practice Fle
 - [**Learn to Code Advanced HTML & CSS**](http://learn.shayhowe.com/advanced-html-css/)
 - [Flexbox without flexbox](https://kyusuf.com/post/almost-complete-guide-to-flexbox-without-flexbox)
 - [CSS Demos](http://www.cssplay.co.uk/layouts/)
+- [**CSS Reference**](http://cssreference.io/) 
 
 !SLIDE css3
 
